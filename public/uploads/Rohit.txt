@@ -1,0 +1,4 @@
+1. https://www.jqueryscript.net/demo/Dynamic-Invoice-Generator-Plugin-jQuery/
+
+
+2. https://www.jqueryscript.net/other/Dynamic-Invoice-Generator-Plugin-jQuery.html  

@@ -1,0 +1,103 @@
+<div class="container">
+    {{#if errors}}
+            {{#each errors}}
+                <div class="alert alert-danger postError alert-dismissible fade show mt-2" role="alert">
+                    <strong>{{message}}</strong>
+                </div>
+            {{/each}}
+        {{/if}}
+
+    <h1>Create Notes</h1>
+    <div class="row p-4">
+        <div class="col-md-10">
+            {{!-- <form action="/admin/posts/create" method="POST" enctype="multipart/form-data"> --}}
+            <form action="/admin/posts/create" method="POST" enctype="multipart/form-data"> 
+            <div class="form-group">
+                    <div class="row">
+                        <div class="col-md-4">
+                        <label for="title">SEM</label>
+                        <select name="sem" id="sem" class="form-control input-brdr" onChange="changecat(this.value);">
+                        <option value="" disabled selected>Select</option>
+    <option value="A">SEMESTER-1</option>
+    <option value="B">SEMESTER-2</option>
+    <option value="C">SEMESTER-3</option>
+    <option value="D">SEMESTER-4</option>
+                        {{!-- onchange="populateDistrict(this.value)" --}}
+                         
+                    </select>
+                    </div>
+                     <div class="col-md-4">
+                        <label for="sub">SUBJECT</label>
+                        <select name="sub" id="sub" class="form-control input-brdr">
+                        <option value="a">a</option>
+                         
+                    </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="professorName">Professor </label>
+                        {{!-- <input type="text" class="form-control" name="professorName" value="{{user.firstName}}" id="professorName" disabled="true"> --}}
+                        <select name="professorName" id="professorName" class="form-control input-brdr"  >
+                        <option value="" disabled selected>Select</option>
+    <option value="{{user.firstName}}">{{user.firstName}}</option> 
+                        
+                         
+                    </select>
+                    </div>
+                    </div>
+                </div> 
+                <hr>
+                <div class="form-group">
+                    <label for="title">Title</label>
+                    <input type="text" class="form-control input-brdr" name="title" id="title" placeholder="Enter the Title">
+                </div>
+                <div class="form-group">
+                    <label for="file">File Upload</label>
+                    <input type="file" class="form-control input-brdr" id="file" name="uploadedFile"  >
+                </div>
+
+                 <div class="form-group">
+                    <label for="file">File Upload</label>
+                    <input type="file" class="form-control input-brdr" id="imgfile" name="uploadedImgFile"  accept="image/jpeg, image/jpg, image/png, image/bmp">
+                </div>
+                
+                {{!-- <div class="form-group">
+                   <label for="status">Status</label>
+                    <select name="status" id="status" class="form-control">
+                        <option value="public">Notes</option>
+                        <option value="private">Question-Paper</option>
+                        <option value="draft">Question-Bank</option>
+                    </select>
+                </div> --}}
+ 
+
+
+                <div class="form-group">
+                    <label for="category">Category Of Notes</label>
+                    <select name="category" id="category" class="form-control input-brdr">
+                        {{#each categories}}
+                            <option value="{{_id}}">{{title}}</option>    
+                        {{/each}}
+                                             
+                    </select>
+                </div>
+                
+                 <div class="form-check ml-3">
+                    <label for="allowComments">
+                        <input type="checkbox" class="form-check-input input-brdr" id="allowComments" name="allowComments">
+                        Allow Comments
+                    </label>
+                </div>
+                <hr>
+                <div class="form-group">
+                    <label for="description">Additional Message</label>
+                    <textarea name="description" id="description" class="form-control input-brdr" placeholder="Enter your message here" rows="10"></textarea>
+                </div>
+                
+                
+                <button class="btn btn-outline-success btn-lg" type="submit">Create Post</button>
+
+
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,85 @@
+<div class="container">
+    <h1>Edit Post</h1>
+
+    <div class="row p-4">
+        <div class="col-md-10">
+            <form action="/admin/posts/edit/{{post._id}}?newMethod=PUT" method="post">
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-md-4">
+                        <label for="professorName">Professor </label> 
+                        <select name="professorName" id="professorName" class="form-control"  >
+                        {{!-- <option value="" disabled selected>Select</option> --}}
+    <option value="{{user.firstName}}">{{user.firstName}}</option> 
+                        
+                         
+                    </select>
+                    </div>
+                         {{!-- <div class="col-md-4">
+                        <label for="professorName">Professor </label> 
+                        <input type="text" class="form-control" name="professorName" value="{{user.firstName}}" id="professorName" disabled="true">
+                    </div> --}}
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="title">Title</label>
+                    <input type="text" class="form-control" name="title" id="title" placeholder="Enter The Title" value={{post.title}}>
+                </div>
+
+                  <div class="form-group">
+                      {{!--  <label for="file">File Upload</label>
+                   <img class="img" src="{{post.file}}" alt="Card image cap" width="50" height="auto">  
+                     <label for="file">File Upload</label>--}}
+
+                      <label for="file">File Upload</label>
+                    <input type="file" class="form-control" id="file" name="uploadedFile"   >
+                   {{!-- <input type="file" class="form-control" id="file" name="uploadedFile"  accept="image/jpeg, image/jpg, image/png, image/bmp" value> --}}
+                     
+                </div> 
+
+                <div class="form-group">
+                    <label for="status">Status</label>
+                    <select name="status" id="status" class="form-control">
+                        <option value="public">Public</option>
+                        <option value="private">Private</option>
+                        <option value="draft">Draft</option>
+                    </select>
+                </div>
+
+
+                 <div class="form-group">
+                    <label for="category">Category</label>
+                    <select name="category" id="category" class="form-control">
+                        {{#select post.category}}
+                            {{#each categories}}
+                                <option value="{{_id}}">{{title}}</option>    
+                            {{/each}}                            
+                        {{/select}}
+                    </select>
+                </div>
+
+
+
+                <div class="form-check ml-3">
+                    <label for="allowComments">
+                        <input type="checkbox" class="form-check-input" id="allowComments" name="allowComments" >
+                        Allow Comments
+                    </label>
+                </div>
+
+                <div class="form-group">
+                    <label for="description">Content</label>
+                    <textarea name="description" id="description" class="form-control" placeholder="Enter your content here" rows="10">{{post.description}}</textarea>
+                </div>
+
+
+                <button class="btn btn-outline-warning btn-lg" type="submit">Update Post</button>
+
+
+            </form>
+        </div>
+    </div>
+
+
+
+</div>

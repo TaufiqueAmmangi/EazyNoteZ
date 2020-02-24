@@ -1,0 +1,42 @@
+<div class="container">
+    <div class="alert alert-secondary text-center">
+        <h1>View</h1>    
+    </div>
+        
+    <table class="table table-bordered">
+        <thead class="bg-dark text-center">
+        <tr class="text-white">          
+            <th>Professor Name</th>
+            <th>Last Name</th>
+           <th>Year's Of Experience:</th>  
+            <th>Additional Message</th>
+            <th>ACTIONS!!</th>
+           
+        </tr>
+        </thead>
+        <tbody class="text-center">
+       {{#each userProfile}}  
+            <tr>               
+                <td>{{firstName}}</td>
+                <td>{{lastName}}</td>
+               <td>{{experience}}</td>  
+                <td>{{field}}</td>
+                <td>{{file}}</td>
+                <td>{{category.title}}</td>
+                <td class="d-flex">
+                    <a href="/admin/profile/edit/{{_id}}" class="btn btn-sm btn-warning mr-2">Edit Post</a>
+
+                    <form action="/admin/posts/delete/{{id}}?newMethod=DELETE" method="post">
+                        <button class="btn btn-sm btn-danger" type="submit">Delete Post</button>
+                    </form>
+                    
+                    
+                </td>
+            </tr>    
+         {{/each}}  
+        
+        </tbody>
+    </table>
+    
+    
+</div>

@@ -1,0 +1,48 @@
+<div class="container">
+    <div class="alert alert-dark text-center">
+        <h1>ALL POSTS</h1>    
+    </div>
+        
+    <div class="row">
+        <div class="col-lg-12 col-xs-10">
+            <table class="table table-bordered table-hover table-striped table-responsive-sm f-14px">
+        <thead class="bg-table-header text-center">
+        <tr class="text-white">          
+            <th>Title</th>
+            <th>Description</th>
+           <th>Professor</th>  
+            <th>Comments Allowed</th>
+            <th>Category</th>
+             <th>Uploaded DOC</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody class="text-center">
+        {{#each posts}}
+            <tr>               
+                <td>{{title}}</td>
+                <td>{{description}}</td>
+               <td>{{professorName}}</td>  
+                <td>{{allowComments}}</td>
+                <td>{{file}}</td>
+                <td>{{category.title}}</td>
+                <td class="d-flex">
+                    <a href="/admin/posts/edit/{{_id}}" class="btn btn-sm btn-warning mr-2">Edit Post</a>
+
+                    <form action="/admin/posts/delete/{{id}}?newMethod=DELETE" method="post">
+                        <button class="btn btn-sm btn-danger" type="submit">Delete Post</button>
+                    </form>
+                    
+                    
+                </td>
+            </tr>    
+        {{/each}}
+        
+        </tbody>
+    </table>
+    
+        </div>
+
+    </div>
+    
+</div>

@@ -1,0 +1,106 @@
+
+    <div class="row">
+
+        <!-- Post Content Column -->
+        <div class="col-lg-8">
+
+            <!-- Title -->
+            <h1 class="mt-4">{{post.title}}</h1>
+
+            <!-- Author -->
+            <p class="lead">
+                by      
+                {{!-- TODO --}}
+                <a href="#">{{post.professorName}}</a>
+            </p>
+
+           
+
+            <!-- Date/Time -->
+            {{!-- <p>Posted on {{post.creationDate}}</p> --}}
+
+            
+
+            <!-- Preview Image -->
+            
+            {{!-- <img class="img-fluid rounded" src="{{post.file}}" alt="">
+         <a href="#"> --}}
+         
+          {{!-- {{post.file}} --}}
+        </a>
+
+             
+          
+
+            <!-- Post Content -->
+           
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-6 d-flex justify-content-center">
+      {{!-- <div class="card bx-shdw-0 br-0" style="width: 20rem;>
+        <img class="card-img-top" src="..." alt="Card image cap">
+        <div class="card-body">
+            
+        </div>
+      </div> --}}
+    </div>
+    <div class="col-sm-6 d-flex justify-content-center">
+      <div class="card bx-shdw-0 br-0" >
+        <img class="card-img-top" src="..." alt="Card image cap">
+        <div class="card-body">
+             <h6 class="card-subtitle mb-2 text-muted">{{post.title}}</h6>  
+        <img class="img-fluid rounded" src="{{post.imageF}}" >  
+        <hr>   
+                    <p class="card-text">{{post.description}}</p>
+                     <hr>   
+                     {{!-- <button class="btn btn-outline-success btn-lg" id="create-category-button">Create Category</button> --}}
+                    <a href="/download/{{post.id}}" class="btn btn-outline-success btn-lg">Download!!</a> &nbsp; &nbsp;
+                    <a href="/" class="btn btn-outline-primary btn-lg">Go Back!!</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+            <hr>
+                
+            <!-- Comments Form -->
+            <div class="card my-4">
+                {{!-- <h5 class="card-header">&nbsp;</h5> --}}
+                {{!-- <div class="card-body">
+                      <form action="/post/{{post._id}}" method="post">
+                        <div class="form-group">
+                            <textarea class="form-control" rows="3" name="comment_body"></textarea>
+                            <input type="hidden" name="id" value="{{post._id}}">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>  
+                      
+                </div> --}}
+            </div>
+
+            <!-- Single Comment -->
+
+            {{#each post.comments}}
+                {{#if commentIsApproved}}
+                    <div class="media mb-4">
+                        <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/50x50" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">{{user.firstName}} {{user.lastName}}</h5>
+                           {{body}}
+                        </div>
+                    </div>
+                {{/if}}
+
+            {{/each}}
+
+
+
+
+        </div>
+
+        <!-- Sidebar Widgets Column -->
+       
+
+    </div>
+    <!-- /.row -->

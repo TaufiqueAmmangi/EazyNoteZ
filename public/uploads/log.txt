@@ -1,0 +1,1703 @@
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/collection_view@1.3x.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/collection_view.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 396 X 322
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/intellishell@1.3x.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/intellishell.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 396 X 322
+2019-10-08 12:05:29 [main] t3.utils.be.readWinRegistry()
+WARNING: Unable to fetch value of type REG_DWORD for key AppsUseLightTheme from registry at HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/light_theme@1.3x.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/light_theme.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 396 X 322
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/dark_theme@1.3x.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/dark_theme.png
+2019-10-08 12:05:29 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 396 X 322
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/connect@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/connect.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/database_server@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/database_server.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/database@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/database.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/collection@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/collection.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/find@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/find.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/import_tn@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/import_tn.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/export_tn@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/export_tn.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/sql_migration@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/sql_migration.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/aggregation_gt@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/aggregation_gt.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/intellishell_gt@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/intellishell_gt.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/sql_gt@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/sql_gt.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/users/24x24/group_3t@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/users/24x24/group_3t.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/roles/24x24/script_key_3t@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/roles/24x24/script_key_3t.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/chart_pie@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/chart_pie.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/edit_diff@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/edit_diff.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/task@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/task.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/feedback@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/feedback.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/se/24x24/run@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/se/24x24/run.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/intellishell_gt@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/intellishell_gt.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/sql_gt@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/sql_gt.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/open@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/open.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/save@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/save.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/save_as@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/save_as.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/aggregation@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/aggregation.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/map_reduce_tz@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/map_reduce_tz.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/chart_pie@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/chart_pie.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/edit_diff@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/edit_diff.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/collection@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/collection.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/map_reduce_tz@1.3x.png
+2019-10-08 12:05:45 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/map_reduce_tz.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fi/16x16/cross-circle-frame@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fi/16x16/cross-circle-frame.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_right_edited@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_right_edited.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/view_tz@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/view_tz.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/new_collection_tz@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/new_collection_tz.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/code@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/code.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/gridfs@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/gridfs.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/users@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/users.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/index@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/index.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/sessions@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/sessions.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/task@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/task.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/replica_set@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/replica_set.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/server_primary_v4@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/server_primary_v4.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/server_secondary_v4@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/server_secondary_v4.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fugue/16x16/folder-horizontal@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fugue/16x16/folder-horizontal.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/folder@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/folder.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_left_edited@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_left_edited.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/draw_eraser@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/draw_eraser.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_down_edited@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_down_edited.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_up_edited@1.3x.png
+2019-10-08 12:05:46 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_up_edited.png
+2019-10-08 12:05:47 [main] t3.utils.t.z.aup()
+WARNING: Cannot read managed property store from disk: java.lang.NullPointerException
+	at java.io.ByteArrayInputStream.<init>(ByteArrayInputStream.java:106)
+	at t3.utils.t.z.aup(ManagedPropertyStore.java:228)
+	at t3.utils.t.aj.get(PropertyStore.java:248)
+	at t3.utils.t.aj.get(PropertyStore.java:245)
+	at t3.utils.t.af.a(PropertyStore.java:64)
+	at t3.utils.t.ae.a(PropertyStore.java:245)
+	at t3.utils.t.z.read(ManagedPropertyStore.java:224)
+	at t3.utils.t.z.a(ManagedPropertyStore.java:128)
+	at t3.utils.t.z.mZ(ManagedPropertyStore.java:87)
+	at t3.utils.t.l.<clinit>(DefaultTrustedPropertyStore.java:16)
+	at t3.utils.connman.ey.bu(MongoConnectionInfoRestrictions.java:76)
+	at t3.utils.connman.ey.Nr(MongoConnectionInfoRestrictions.java:147)
+	at t3.utils.connman.ey.<init>(MongoConnectionInfoRestrictions.java:43)
+	at t3.utils.connman.bw.<init>(ConnectionManager.java:98)
+	at t3.utils.connman.bw.LJ(ConnectionManager.java:106)
+	at t3.dataman.mongodb.app.a.<init>(AppController.java:135)
+	at t3.dataman.mongodb.app.ad.main(AppRunner.java:100)
+	at t3.dataman.mongodb.app.Studio3TApp.main(Studio3TApp.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:85)
+	at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
+	at com.install4j.runtime.launcher.WinLauncher.main(WinLauncher.java:25)
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/galleries/arrow_left@1.3x.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/galleries/arrow_left.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/galleries/arrow_right@1.3x.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/galleries/arrow_right.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/galleries/bullet_white@1.3x.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/galleries/bullet_white.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/galleries/bullet_green@1.3x.png
+2019-10-08 12:05:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/galleries/bullet_green.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/database_add@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/database_add.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/folder_add@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/folder_add.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/page_white_edit@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/page_white_edit.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/page_white_delete@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/page_white_delete.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/page_white_copy@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/page_white_copy.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/import_connections@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/import_connections.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/export_connections@1.3x.png
+2019-10-08 12:06:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/export_connections.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/color_swatches@1.3x.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/color_swatches.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fi/16x16/information-3t@1.3x.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fi/16x16/information-3t.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/16x16/eye@1.3x.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/16x16/eye.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/folder_explore@1.3x.png
+2019-10-08 12:06:20 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/folder_explore.png
+2019-10-08 12:06:33 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/20x16/database_server@1.3x.png
+2019-10-08 12:06:33 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/20x16/database_server.png
+2019-10-08 12:06:33 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:06:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/16x16/database_server@1.3x.png
+2019-10-08 12:06:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/16x16/database_server.png
+2019-10-08 12:06:37 [3T::Connection Manager Thread] t3.utils.connman.l.a()
+WARNING: Failed to execute db.runCommand({replSetGetStatus: 1}): com.mongodb.MongoCommandException: Command failed with error 76 (NoReplicationEnabled): 'not running with --replSet' on server localhost:27017. The full response is {"ok": 0.0, "errmsg": "not running with --replSet", "code": 76, "codeName": "NoReplicationEnabled"}
+	at com.mongodb.internal.connection.ProtocolHelper.getCommandFailureException(ProtocolHelper.java:179)
+	at com.mongodb.internal.connection.InternalStreamConnection.receiveCommandMessageResponse(InternalStreamConnection.java:299)
+	at com.mongodb.internal.connection.InternalStreamConnection.sendAndReceive(InternalStreamConnection.java:255)
+	at com.mongodb.internal.connection.UsageTrackingInternalConnection.sendAndReceive(UsageTrackingInternalConnection.java:99)
+	at com.mongodb.internal.connection.DefaultConnectionPool$PooledConnection.sendAndReceive(DefaultConnectionPool.java:444)
+	at com.mongodb.internal.connection.CommandProtocolImpl.execute(CommandProtocolImpl.java:72)
+	at com.mongodb.internal.connection.DefaultServer$DefaultServerProtocolExecutor.execute(DefaultServer.java:200)
+	at com.mongodb.internal.connection.DefaultServerConnection.executeProtocol(DefaultServerConnection.java:269)
+	at com.mongodb.internal.connection.DefaultServerConnection.command(DefaultServerConnection.java:131)
+	at com.mongodb.internal.connection.DefaultServerConnection.command(DefaultServerConnection.java:123)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:243)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:214)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:206)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:116)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:109)
+	at com.mongodb.operation.CommandReadOperation.execute(CommandReadOperation.java:56)
+	at com.mongodb.client.internal.MongoClientDelegate$DelegateOperationExecutor.execute(MongoClientDelegate.java:179)
+	at com.mongodb.client.internal.MongoDatabaseImpl.executeCommand(MongoDatabaseImpl.java:184)
+	at com.mongodb.client.internal.MongoDatabaseImpl.runCommand(MongoDatabaseImpl.java:153)
+	at com.mongodb.client.internal.MongoDatabaseImpl.runCommand(MongoDatabaseImpl.java:148)
+	at com.mongodb.client.internal.MongoDatabaseImpl.runCommand(MongoDatabaseImpl.java:138)
+	at t3.utils.connman.l.a(Connection.java:407)
+	at t3.utils.connman.l.Kf(Connection.java:484)
+	at t3.utils.connman.c.c.h(MongoDBConnector.java:371)
+	at t3.utils.connman.c.c.g(MongoDBConnector.java:934)
+	at t3.utils.connman.bw.d(ConnectionManager.java:1133)
+	at t3.utils.connman.bw.c(ConnectionManager.java:1065)
+	at t3.utils.connman.bw.f(ConnectionManager.java:408)
+	at com.google.common.util.concurrent.TrustedListenableFutureTask$TrustedFutureInterruptibleTask.runInterruptibly(TrustedListenableFutureTask.java:117)
+	at com.google.common.util.concurrent.InterruptibleTask.run(InterruptibleTask.java:38)
+	at com.google.common.util.concurrent.TrustedListenableFutureTask.run(TrustedListenableFutureTask.java:77)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-10-08 12:06:37 [3T::Connection Manager Thread] t3.utils.connman.l.g()
+WARNING: consider using isEffectiveVersionOrLater for comparing version against 3.4 or above
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/add_gt@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/add_gt.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/user@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/user.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/execute@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/execute.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/execute_cursor@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/execute_cursor.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/execute_selection_gt@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/execute_selection_gt.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/clear_result_tabs_gt@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/clear_result_tabs_gt.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/retain_previous_tabs_gt@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/retain_previous_tabs_gt.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/shell_tn@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/shell_tn.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/custom_search@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/custom_search.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/arrow_up_shorter_3t@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/arrow_up_shorter_3t.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/arrow_down_shorter_3t@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/arrow_down_shorter_3t.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/cross_close@1.3x.png
+2019-10-08 12:07:05 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/cross_close.png
+2019-10-08 12:07:06 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/clock-select@1.3x.png
+2019-10-08 12:07:06 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/clock-select.png
+2019-10-08 12:07:06 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/history@1.3x.png
+2019-10-08 12:07:06 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/history.png
+2019-10-08 12:09:28 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/cancel@1.3x.png
+2019-10-08 12:09:28 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/cancel.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script--exclamation@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script--exclamation.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-k@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-k.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-v@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-v.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_function@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_function.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-block@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-block.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-m@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-m.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-p@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-p.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/new@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/new.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/ghost@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/ghost.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-code@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-code.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-l@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-l.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/folder-horizontal@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/folder-horizontal.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-globe@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-globe.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-import@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-import.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-c@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-c.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-i@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-i.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-t@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-t.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-e@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-e.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_database@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_database.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_collection@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_collection.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-o@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-o.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-f@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-f.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_shell-helper@1.3x.png
+2019-10-08 12:11:02 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_shell-helper.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/rewind_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/rewind_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/arrow_left_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/arrow_left_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/arrow_right_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/arrow_right_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/cog_with_bullet_arrow_down_edited@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/cog_with_bullet_arrow_down_edited.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/blank-16x16@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/blank-16x16.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/copy@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/copy.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/copy_multiple@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/copy_multiple.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/paste@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/paste.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/find@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/find.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/ff_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/ff_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/unlocked@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/unlocked.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/page_white_add@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/page_white_add.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/json-view_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/json-view_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/page_white_edit@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/page_white_edit.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/update_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/update_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/remove_tz@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/remove_tz.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-other-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-other-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-object-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-object-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-array-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-array-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-binary-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-binary-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-bool-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-bool-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-code-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-code-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-code-plus-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-code-plus-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-date-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-date-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-id-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-id-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-number-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-number-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-int32-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-int32-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-int64-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-int64-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-dec128-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-dec128-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-ref-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-ref-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-string-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-string-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-symbol-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-symbol-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-time-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-time-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-regex-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-regex-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-minkey-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-minkey-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-maxkey-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-maxkey-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/docs_count_was_page_number@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/docs_count_was_page_number.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-other-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-other-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-object-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-object-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-array-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-array-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-binary-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-binary-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-bool-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-bool-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-code-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-code-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-code-plus-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-code-plus-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-date-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-date-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-id-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-id-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-number-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-number-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-int32-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-int32-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-int64-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-int64-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-dec128-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-dec128-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-ref-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-ref-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-string-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-string-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-symbol-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-symbol-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-time-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-time-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-regex-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-regex-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-minkey-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-minkey-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-maxkey-12@1.3x.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-maxkey-12.png
+2019-10-08 12:15:48 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2019-10-08 14:58:53 [main] t3.utils.t.x.mX()
+ERROR: Couldn't read UUID for cm: 
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/mini_connect@1.3x.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/mini_connect.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/page_white_edit@1.3x.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/page_white_edit.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/page_white_delete@1.3x.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/page_white_delete.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/page_white_copy@1.3x.png
+2019-10-08 14:58:55 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/page_white_copy.png
+2020-01-15 10:01:04 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fi/32x32/tick@1.3x.png
+2020-01-15 10:01:04 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fi/32x32/tick.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/connect@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/connect.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/database_server@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/database_server.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/database@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/database.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/collection@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/collection.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/find@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/find.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/import_tn@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/import_tn.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/export_tn@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/export_tn.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/sql_migration@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/sql_migration.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/aggregation_gt@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/aggregation_gt.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/intellishell_gt@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/intellishell_gt.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/sql_gt@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/sql_gt.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/users/24x24/group_3t@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/users/24x24/group_3t.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/roles/24x24/script_key_3t@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/roles/24x24/script_key_3t.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/chart_pie@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/chart_pie.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/edit_diff@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/edit_diff.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/task@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/task.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/feedback@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/feedback.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/se/24x24/run@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/se/24x24/run.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/intellishell_gt@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/intellishell_gt.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/sql_gt@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/sql_gt.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/open@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/open.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/save@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/save.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/save_as@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/save_as.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/aggregation@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/aggregation.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/map_reduce_tz@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/map_reduce_tz.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/chart_pie@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/chart_pie.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/edit_diff@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/edit_diff.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/collection@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/collection.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/24x24/map_reduce_tz@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/24x24/map_reduce_tz.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fi/16x16/cross-circle-frame@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fi/16x16/cross-circle-frame.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_right_edited@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_right_edited.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/view_tz@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/view_tz.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/new_collection_tz@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/new_collection_tz.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/code@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/code.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/gridfs@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/gridfs.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/users@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/users.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/index@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/index.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/sessions@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/sessions.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/task@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/task.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/replica_set@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/replica_set.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/server_primary_v4@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/server_primary_v4.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/server_secondary_v4@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/server_secondary_v4.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fugue/16x16/folder-horizontal@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fugue/16x16/folder-horizontal.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/folder@1.3x.png
+2020-01-15 10:04:58 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/folder.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_left_edited@1.3x.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_left_edited.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/draw_eraser@1.3x.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/draw_eraser.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_down_edited@1.3x.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_down_edited.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/level_up_edited@1.3x.png
+2020-01-15 10:04:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/level_up_edited.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/database_add@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/database_add.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/folder_add@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/folder_add.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/page_white_edit@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/page_white_edit.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/page_white_delete@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/page_white_delete.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/page_white_copy@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/page_white_copy.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/import_connections@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/import_connections.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/toolbar/24x24/export_connections@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/toolbar/24x24/export_connections.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/20x16/database_server@1.3x.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/20x16/database_server.png
+2020-01-15 10:05:17 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:05:17 [main] t3.utils.t.x.mX()
+ERROR: Couldn't read UUID for cm: 
+2020-01-15 10:05:21 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/color_swatches@1.3x.png
+2020-01-15 10:05:21 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/color_swatches.png
+2020-01-15 10:05:21 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fi/16x16/information-3t@1.3x.png
+2020-01-15 10:05:21 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fi/16x16/information-3t.png
+2020-01-15 10:05:22 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/16x16/eye@1.3x.png
+2020-01-15 10:05:22 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/16x16/eye.png
+2020-01-15 10:05:22 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/folder_explore@1.3x.png
+2020-01-15 10:05:22 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/folder_explore.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/mini_connect@1.3x.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/mini_connect.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/page_white_edit@1.3x.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/page_white_edit.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/page_white_delete@1.3x.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/page_white_delete.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/menu/16x16/page_white_copy@1.3x.png
+2020-01-15 10:05:37 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/menu/16x16/page_white_copy.png
+2020-01-15 10:05:38 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connman/16x16/database_server@1.3x.png
+2020-01-15 10:05:38 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connman/16x16/database_server.png
+2020-01-15 10:05:38 [3T::Connection Manager Thread] t3.utils.connman.l.a()
+WARNING: Failed to execute db.runCommand({replSetGetStatus: 1}): com.mongodb.MongoCommandException: Command failed with error 76 (NoReplicationEnabled): 'not running with --replSet' on server localhost:27017. The full response is {"ok": 0.0, "errmsg": "not running with --replSet", "code": 76, "codeName": "NoReplicationEnabled"}
+	at com.mongodb.internal.connection.ProtocolHelper.getCommandFailureException(ProtocolHelper.java:179)
+	at com.mongodb.internal.connection.InternalStreamConnection.receiveCommandMessageResponse(InternalStreamConnection.java:299)
+	at com.mongodb.internal.connection.InternalStreamConnection.sendAndReceive(InternalStreamConnection.java:255)
+	at com.mongodb.internal.connection.UsageTrackingInternalConnection.sendAndReceive(UsageTrackingInternalConnection.java:99)
+	at com.mongodb.internal.connection.DefaultConnectionPool$PooledConnection.sendAndReceive(DefaultConnectionPool.java:444)
+	at com.mongodb.internal.connection.CommandProtocolImpl.execute(CommandProtocolImpl.java:72)
+	at com.mongodb.internal.connection.DefaultServer$DefaultServerProtocolExecutor.execute(DefaultServer.java:200)
+	at com.mongodb.internal.connection.DefaultServerConnection.executeProtocol(DefaultServerConnection.java:269)
+	at com.mongodb.internal.connection.DefaultServerConnection.command(DefaultServerConnection.java:131)
+	at com.mongodb.internal.connection.DefaultServerConnection.command(DefaultServerConnection.java:123)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:243)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:214)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:206)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:116)
+	at com.mongodb.operation.CommandOperationHelper.executeWrappedCommandProtocol(CommandOperationHelper.java:109)
+	at com.mongodb.operation.CommandReadOperation.execute(CommandReadOperation.java:56)
+	at com.mongodb.client.internal.MongoClientDelegate$DelegateOperationExecutor.execute(MongoClientDelegate.java:179)
+	at com.mongodb.client.internal.MongoDatabaseImpl.executeCommand(MongoDatabaseImpl.java:184)
+	at com.mongodb.client.internal.MongoDatabaseImpl.runCommand(MongoDatabaseImpl.java:153)
+	at com.mongodb.client.internal.MongoDatabaseImpl.runCommand(MongoDatabaseImpl.java:148)
+	at com.mongodb.client.internal.MongoDatabaseImpl.runCommand(MongoDatabaseImpl.java:138)
+	at t3.utils.connman.l.a(Connection.java:407)
+	at t3.utils.connman.l.Kf(Connection.java:484)
+	at t3.utils.connman.c.c.h(MongoDBConnector.java:371)
+	at t3.utils.connman.c.c.g(MongoDBConnector.java:934)
+	at t3.utils.connman.bw.d(ConnectionManager.java:1133)
+	at t3.utils.connman.bw.c(ConnectionManager.java:1065)
+	at t3.utils.connman.bw.f(ConnectionManager.java:408)
+	at com.google.common.util.concurrent.TrustedListenableFutureTask$TrustedFutureInterruptibleTask.runInterruptibly(TrustedListenableFutureTask.java:117)
+	at com.google.common.util.concurrent.InterruptibleTask.run(InterruptibleTask.java:38)
+	at com.google.common.util.concurrent.TrustedListenableFutureTask.run(TrustedListenableFutureTask.java:77)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 10:05:38 [3T::Connection Manager Thread] t3.utils.connman.l.g()
+WARNING: consider using isEffectiveVersionOrLater for comparing version against 3.4 or above
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/add_gt@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/add_gt.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/connection/16x16/user@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/connection/16x16/user.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/execute@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/execute.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/execute_cursor@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/execute_cursor.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/execute_selection_gt@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/execute_selection_gt.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/clear_result_tabs_gt@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/clear_result_tabs_gt.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/retain_previous_tabs_gt@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/retain_previous_tabs_gt.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/shell_tn@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/shell_tn.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/custom_search@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/custom_search.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/arrow_up_shorter_3t@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/arrow_up_shorter_3t.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/arrow_down_shorter_3t@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/arrow_down_shorter_3t.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/cross_close@1.3x.png
+2020-01-15 10:05:51 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/cross_close.png
+2020-01-15 10:05:52 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/clock-select@1.3x.png
+2020-01-15 10:05:52 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/clock-select.png
+2020-01-15 10:05:52 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/history@1.3x.png
+2020-01-15 10:05:52 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/history.png
+2020-01-15 10:06:07 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/cancel@1.3x.png
+2020-01-15 10:06:07 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/cancel.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/rewind_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/rewind_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/arrow_left_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/arrow_left_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/arrow_right_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/arrow_right_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/cog_with_bullet_arrow_down_edited@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/cog_with_bullet_arrow_down_edited.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/blank-16x16@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/blank-16x16.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/copy@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/copy.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/copy_multiple@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/copy_multiple.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/paste@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/paste.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/find@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/find.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/ff_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/ff_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/unlocked@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/unlocked.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/page_white_add@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/page_white_add.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/json-view_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/json-view_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/page_white_edit@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/page_white_edit.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/update_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/update_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/docsview/16x16/remove_tz@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/docsview/16x16/remove_tz.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-other-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-other-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-object-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-object-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-array-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-array-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-binary-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-binary-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-bool-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-bool-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-code-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-code-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-code-plus-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-code-plus-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-date-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-date-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-id-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-id-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-number-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-number-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-int32-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-int32-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-int64-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-int64-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-dec128-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-dec128-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-ref-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-ref-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-string-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-string-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-symbol-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-symbol-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-time-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-time-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-regex-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-regex-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-minkey-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-minkey-12.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/tree-type-maxkey-12@1.3x.png
+2020-01-15 10:19:11 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/tree-type-maxkey-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/fc/16x16/docs_count_was_page_number@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/fc/16x16/docs_count_was_page_number.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-other-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-other-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-object-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-object-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-array-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-array-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-binary-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-binary-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-bool-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-bool-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-code-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-code-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-code-plus-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-code-plus-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-date-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-date-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-id-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-id-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-number-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-number-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-int32-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-int32-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-int64-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-int64-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-dec128-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-dec128-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-ref-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-ref-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-string-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-string-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-symbol-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-symbol-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-time-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-time-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-regex-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-regex-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-minkey-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-minkey-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/type-icon-sets/light/table-type-maxkey-12@1.3x.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/type-icon-sets/light/table-type-maxkey-12.png
+2020-01-15 10:19:12 [main] t3.utils.gui.bl.a()
+ERROR: We work only with square images, the original is 20 X 16
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script--exclamation@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script--exclamation.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-k@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-k.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-v@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-v.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_function@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_function.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-block@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-block.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-m@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-m.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-p@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-p.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/new@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/new.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/ghost@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/ghost.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-code@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-code.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-l@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-l.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/folder-horizontal@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/folder-horizontal.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-globe@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-globe.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-import@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-import.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-c@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-c.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-i@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-i.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-t@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-t.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-e@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-e.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_database@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_database.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_collection@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_collection.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-o@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-o.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/script-attribute-f@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/script-attribute-f.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Image doesn't exist: /t3/utils/icons/completion/_shell-helper@1.3x.png
+2020-01-15 10:19:59 [main] t3.utils.gui.bl.getImage()
+WARNING: Using: /t3/utils/icons/completion/_shell-helper.png
+2020-01-15 10:35:22 [Thread-34] t3.utils.ag.a.lambda$doSend$2()
+ERROR: Failed to send telemetry data: java.net.UnknownHostException: tm.3t.io
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at t3.utils.connman.c.a.connect(DeferredSSLSocket.java:89)
+	at t3.utils.connman.c.a.connect(DeferredSSLSocket.java:66)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at t3.utils.ag.a.lambda$doSend$2(Telemetry.java:1140)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:08:09 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:08:39 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:09:09 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:09:39 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:10:09 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:10:39 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)
+2020-01-15 11:11:09 [3T::Updates (true)] t3.utils.online.a.p()
+ERROR: UpdateManager: failed to read update info.: java.net.UnknownHostException: updates.3tsoftwarelabs.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at t3.utils.online.a.p(CallHome.java:202)
+	at java.lang.Thread.run(Thread.java:748)

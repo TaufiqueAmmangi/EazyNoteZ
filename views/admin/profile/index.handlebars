@@ -1,0 +1,62 @@
+<div class="container">
+   {{#if errors}}
+            {{#each errors}}
+                <div class="alert alert-danger alert-dismissible fade show mt-2" role="alert">
+                    <strong>{{message}}</strong>
+                </div>
+            {{/each}}
+        {{/if}}
+   <h1>Edit Profile</h1>
+   <form action="/admin/profile/create/" method="POST" enctype="multipart/form-data">
+   
+   <div class="row p-4">
+      <div class="col-md-3">
+         <div class="form-group">
+                  <label for="firstname">Professor Name</label>
+                  <input type="text" class="form-control input-brdr" name="firstname" id="firstname" value="{{user.firstName}} ">
+          </div>
+      </div>
+      <div class="col-md-3">
+         <div class="form-group">
+                  <label for="lastname">Last Name</label>
+                  <input type="text" class="form-control input-brdr" name="lastname" id="lastname" value="{{user.lastName}} ">
+          </div>
+      </div>
+       <div class="col-md-2">
+          <div class="form-group">
+                  <label for="yrsOfExp">Year's Of Experience:</label>
+                  <input type="text" class="form-control input-brdr" name="yrsOfExp" id="yrsOfExp" value="{{ userProfile.yrsOfExp }}">
+          </div>
+      </div>
+   </div>
+   <div class="row p-4">
+     
+      <div class="col-md-5">            
+             <div class="form-group">
+   <label for="addInfo">Additional Message</label>
+   <textarea name="addInfo" id="addInfo" class="form-control input-brdr" placeholder="Enter your message here" rows="10"></textarea>
+   </div>
+      </div>
+      <div class="col-md-5"><div class="form-group">
+                    <label for="file">File Upload</label>
+                    <input type="file" class="form-control input-brdr" id="imgfile" name="uploadedImgFile"  accept="image/jpeg, image/jpg, image/png, image/bmp">
+                </div></div>
+      
+      {{!-- <div class="col-md-3"><div class="form-group">
+   <label for="file">File Upload</label>
+   <input type="file" class="form-control" id="file" name="profilePic"  accept="image/jpeg, image/jpg, image/png, image/bmp">
+   </div></div> --}}
+   </div>
+   <hr>
+   <div class="row p-4">
+   <div class="col-md-10">
+   
+   
+   <div class="form-group">
+   <button class="btn btn-primary" type="submit">Update</button>
+   </div>
+   </div>
+   </div>
+   </form>
+</div>
+</div>
