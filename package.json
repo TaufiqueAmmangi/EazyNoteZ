@@ -17,7 +17,7 @@
     "download-file": "^0.1.5",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-hbs": "^2.3.0",
     "express-session": "^1.17.0",
     "file-downloadr": "^1.0.3",
